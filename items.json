@@ -4,76 +4,87 @@
         "item":"ITEM",
         "quantity":"QUANTITY",
         "department":"DEPARTMENT",
+        "unit":"UNIT",
         "notes":"NOTES"
     },
     {
         "slno":"1",
         "item":"Rice",
-        "quantity":"10kg",
+        "quantity":"10",
         "department":"Food item",
+        "unit":"kilogram",
         "notes":"Diamond jyothi or anand brand "
     },
     {
         "slno":"2",
         "item":"Sugar",
-        "quantity":"3kg",
+        "quantity":"3",
         "department":"Food item",
+        "unit":"kilogram",
         "notes":"Take good quality"
     },
     {
         "slno":"3",
         "item":"Salt",
-        "quantity":"2 packets",
+        "quantity":"2 ",
         "department":"Food item",
+        "unit":"packet",
         "notes":"Iodised"
     },
     {
         "slno":"4",
         "item":"Soap",
-        "quantity":"2 number",
+        "quantity":"2 ",
         "department":"Stationary",
+        "unit":"number",
         "notes":"Vivel"
     },
     {
         "slno":"5",
         "item":"Washing powder",
-        "quantity":" 1 Packet",
+        "quantity":" 1",
         "department":"Stationary",
+        "unit":"packet",
         "notes":"Buy ujala washing powder "
     },
     {
         "slno":"6",
         "item":"Toilet cleaner",
-        "quantity":"1 number",
+        "quantity":"1 ",
         "department":"Stationary",
+        "unit":"number",
         "notes":"Harpic"
     },
     {
         "slno":"7",
         "item":"Sanitiser",
-        "quantity":"1 number",
+        "quantity":"1 ",
         "department":"Medical store",
+        "unit":"number",
         "notes":"Himalaya"
     },
     {
         "slno":"8",
         "item":"Green gram",
-        "quantity":"2 Kg",
+        "quantity":"2 ",
         "department":"Food item",
+        "unit":"kilogram",
         "notes":"Check quality"
     },
     {
         "slno":"9",
         "item":"Cattle feed",
-        "quantity":"10 Kg",
+        "quantity":"10 ",
         "department":"Food item",
+        "unit":"kilogram",
         "notes":"Milma pellet cattle feed"
     },
     {
         "slno":"10",
         "item":"ToothPaste",
-        "quantity":"1 number",
+        "quantity":"1 ",
         "department":"Stationary",
+        "unit":"number",
         "notes":"Colgate"
     }
 ]}
