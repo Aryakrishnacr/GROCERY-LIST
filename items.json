@@ -1,0 +1,79 @@
+{"items":[
+    {
+        "slno":"SL.NO",
+        "item":"ITEM",
+        "quantity":"QUANTITY",
+        "department":"DEPARTMENT",
+        "notes":"NOTES"
+    },
+    {
+        "slno":"1",
+        "item":"Rice",
+        "quantity":"10kg",
+        "department":"Food item",
+        "notes":"Diamond jyothi or anand brand "
+    },
+    {
+        "slno":"2",
+        "item":"Sugar",
+        "quantity":"3kg",
+        "department":"Food item",
+        "notes":"Take good quality"
+    },
+    {
+        "slno":"3",
+        "item":"Salt",
+        "quantity":"2 packets",
+        "department":"Food item",
+        "notes":"Iodised"
+    },
+    {
+        "slno":"4",
+        "item":"Soap",
+        "quantity":"2 number",
+        "department":"Stationary",
+        "notes":"Vivel"
+    },
+    {
+        "slno":"5",
+        "item":"Washing powder",
+        "quantity":" 1 Packet",
+        "department":"Stationary",
+        "notes":"Buy ujala washing powder "
+    },
+    {
+        "slno":"6",
+        "item":"Toilet cleaner",
+        "quantity":"1 number",
+        "department":"Stationary",
+        "notes":"Harpic"
+    },
+    {
+        "slno":"7",
+        "item":"Sanitiser",
+        "quantity":"1 number",
+        "department":"Medical store",
+        "notes":"Himalaya"
+    },
+    {
+        "slno":"8",
+        "item":"Green gram",
+        "quantity":"2 Kg",
+        "department":"Food item",
+        "notes":"Check quality"
+    },
+    {
+        "slno":"9",
+        "item":"Cattle feed",
+        "quantity":"10 Kg",
+        "department":"Food item",
+        "notes":"Milma pellet cattle feed"
+    },
+    {
+        "slno":"10",
+        "item":"ToothPaste",
+        "quantity":"1 number",
+        "department":"Stationary",
+        "notes":"Colgate"
+    }
+]}
