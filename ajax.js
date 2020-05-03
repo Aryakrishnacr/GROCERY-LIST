@@ -1,4 +1,5 @@
 
+    
     var xhttp=new XMLHttpRequest();
     xhttp.onreadystatechange=function(){
         if(this.readyState=4&&this.status==200){
@@ -13,7 +14,7 @@
            
            for(var i=0;i<jitems.length;i++){
             
-              output+="<tr><td>"+jitems[i].slno+"</td><td>"+jitems[i].item+"</td><td>"+jitems[i].quantity+"</td><td>"+jitems[i].department+"</td><td>"+jitems[i].notes+"</td></td></tr>";
+              output+="<tr><td>"+jitems[i].slno+"</td><td>"+jitems[i].item+"</td><td>"+jitems[i].quantity+"</td><td>"+jitems[i].department+"</td><td>"+jitems[i].unit+"</td><td>"+jitems[i].notes+"</td></td></tr>";
            
             
                 console.log(output);
